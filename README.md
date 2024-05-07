@@ -1,7 +1,7 @@
 # locationhistoryextractor
 Quick and nasty dump of location history data from google. Useful if you need to dig through your location history and try to figure out where you were at particular points in the day. As I primarily work from home, I put this together so I could figure out which days I was in the Office so I could figure out how much tax deductions i could claim in my tax return (gotta love tax time amirite?).
 
-Excuse the hasty code and lack of tests. It isn't perfect, but it gets the job done. 
+Excuse the hasty code and lack of tests. I had tests but broke them all with a refactor and CBF rewriting them too. It isn't perfect, but it gets the job done. 
 
 To install (requires go 1.21 or newer. Would prob work with older too, but you should be up to date anyway. https://go.dev/doc/install):
 ```
